@@ -1,0 +1,11 @@
+i_sponge=/tmp/ActiveState------------------------------------------please-run-the-install-script-----------------------------------------
+i_archname=x86_64-linux-thread-multi
+i_osname=linux
+i_osvers=4.14.88-88.76.amzn2.x86_64
+i_gnulibc_version=2.12
+i_compiler=gcc
+i_compiler_version="4.9.2 20150212 (Red Hat 4.9.2-6)"
+i_perl_product=ActivePerl
+i_perl_version=5.28.1
+i_perl_build=2801
+i_p4change=cb03d3e0

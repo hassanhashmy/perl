@@ -1,0 +1,16 @@
+/tmp/ActiveState------------------------------------------please-run-the-install-script-----------------------------------------/lib/perl5/site_perl/5.28.1/ExtUtils/CBuilder.pm
+/tmp/ActiveState------------------------------------------please-run-the-install-script-----------------------------------------/lib/perl5/site_perl/5.28.1/ExtUtils/CBuilder/Base.pm
+/tmp/ActiveState------------------------------------------please-run-the-install-script-----------------------------------------/lib/perl5/site_perl/5.28.1/ExtUtils/CBuilder/Platform/Unix.pm
+/tmp/ActiveState------------------------------------------please-run-the-install-script-----------------------------------------/lib/perl5/site_perl/5.28.1/ExtUtils/CBuilder/Platform/VMS.pm
+/tmp/ActiveState------------------------------------------please-run-the-install-script-----------------------------------------/lib/perl5/site_perl/5.28.1/ExtUtils/CBuilder/Platform/Windows.pm
+/tmp/ActiveState------------------------------------------please-run-the-install-script-----------------------------------------/lib/perl5/site_perl/5.28.1/ExtUtils/CBuilder/Platform/Windows/BCC.pm
+/tmp/ActiveState------------------------------------------please-run-the-install-script-----------------------------------------/lib/perl5/site_perl/5.28.1/ExtUtils/CBuilder/Platform/Windows/GCC.pm
+/tmp/ActiveState------------------------------------------please-run-the-install-script-----------------------------------------/lib/perl5/site_perl/5.28.1/ExtUtils/CBuilder/Platform/Windows/MSVC.pm
+/tmp/ActiveState------------------------------------------please-run-the-install-script-----------------------------------------/lib/perl5/site_perl/5.28.1/ExtUtils/CBuilder/Platform/aix.pm
+/tmp/ActiveState------------------------------------------please-run-the-install-script-----------------------------------------/lib/perl5/site_perl/5.28.1/ExtUtils/CBuilder/Platform/android.pm
+/tmp/ActiveState------------------------------------------please-run-the-install-script-----------------------------------------/lib/perl5/site_perl/5.28.1/ExtUtils/CBuilder/Platform/cygwin.pm
+/tmp/ActiveState------------------------------------------please-run-the-install-script-----------------------------------------/lib/perl5/site_perl/5.28.1/ExtUtils/CBuilder/Platform/darwin.pm
+/tmp/ActiveState------------------------------------------please-run-the-install-script-----------------------------------------/lib/perl5/site_perl/5.28.1/ExtUtils/CBuilder/Platform/dec_osf.pm
+/tmp/ActiveState------------------------------------------please-run-the-install-script-----------------------------------------/lib/perl5/site_perl/5.28.1/ExtUtils/CBuilder/Platform/os2.pm
+/tmp/ActiveState------------------------------------------please-run-the-install-script-----------------------------------------/man/man3/ExtUtils::CBuilder.3
+/tmp/ActiveState------------------------------------------please-run-the-install-script-----------------------------------------/man/man3/ExtUtils::CBuilder::Platform::Windows.3
